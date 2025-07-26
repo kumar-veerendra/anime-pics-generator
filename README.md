@@ -2,8 +2,6 @@
 
 A fun and interactive web app that fetches and displays random anime images using the [Waifu.im API](https://waifu.im/). Built with HTML, CSS, and JavaScript.
 
-![Screenshot](./screenshot.png)
-
 ---
 
 ## 🔗 Live Demo
@@ -41,16 +39,6 @@ Anime-Pics-Generator/
 - **CSS3**
 - **Vanilla JavaScript**
 - **Waifu.im API**
-
----
-
-## 🧠 How It Works
-
-1. Click the **"Get Anime"** button.
-2. Button disables and shows a loading state.
-3. Fetches a random image from `https://api.waifu.im/search`.
-4. Displays the image and resets the button.
-5. Handles errors and shows messages when needed.
 
 ---
 
